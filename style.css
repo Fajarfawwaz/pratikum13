@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+}
+
+/* HEADER */
+.header {
+    padding: 20px;
+    font-size: 28px;
+    color: #ccc;
+}
+
+/* NAVBAR */
+.navbar {
+    background: #1f5fa8;
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a.active {
+    background: #2f80d1;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+/* CONTAINER */
+.container {
+    padding: 20px;
+}
+
+/* BUTTON */
+.btn {
+    background: #2f80d1;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.btn:hover {
+    background: #1f5fa8;
+}
+
+/* SEARCH */
+.search-box {
+    margin-bottom: 15px;
+}
+
+.search-box input {
+    padding: 6px;
+    width: 200px;
+}
+
+.search-box button {
+    padding: 6px 12px;
+    background: #2f80d1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+/* TABLE */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+table th {
+    background: #f9f9f9;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+td img {
+    width: 40px;
+}
+
+/* ACTION BUTTON */
+.edit {
+    background: #ccc;
+    padding: 6px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: black;
+}
+
+.delete {
+    background: #e74c3c;
+    padding: 6px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+}
+
+/* PAGINATION */
+.pagination {
+    margin-top: 15px;
+}
+
+.pagination a {
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    margin-right: 3px;
+    text-decoration: none;
+    color: #333;
+}
+
+.pagination a.active {
+    background: #2f80d1;
+    color: white;
+    border-color: #2f80d1;
+}
