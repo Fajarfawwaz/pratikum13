@@ -1,3 +1,32 @@
+---
+
+## Praktikum 7 – Membuat Pagination
+
+---
+
+**Nama:** FAJAR FAWWAZ ATALLLAH
+
+**NIM:** 312410357
+
+**Kelas:** TI.2A.A.4
+
+**Mata Kuliah:** Pemrograman Web1
+
+**Dosen:** Agung Nugroho, S.Kom., M.Kom.
+
+---
+
+
+## Halaman HOME / INDEX.PHP
+<img width="1916" height="685" alt="Screenshot 2025-12-30 161915" src="https://github.com/user-attachments/assets/b3299b8b-b16e-4271-bf10-a5450cf5625e" />
+
+## HALAMAN TAMBAH BARANG 
+<img width="1909" height="915" alt="Screenshot 2025-12-30 161929" src="https://github.com/user-attachments/assets/a75471ba-7efc-49a9-8bf5-fd184a83d941" />
+
+## HALAMAN EDIT BARANG
+  <img width="1919" height="836" alt="Screenshot 2025-12-30 161945" src="https://github.com/user-attachments/assets/659fec05-7554-420d-ac7a-48e76044b57b" />
+
+
 # 📦 Aplikasi CRUD Barang dengan Pagination (PHP & MySQL)
 
 Aplikasi web sederhana berbasis **PHP dan MySQL** untuk mengelola data barang.  
