@@ -60,4 +60,13 @@ http://localhost/pagination/index.php
 = Gunakan Search untuk mencari barang
 - Navigasi halaman menggunakan pagination
 
-📌 Catatan
+## 📌 Catatan
+- Pastikan folder gambar/ memiliki izin tulis
+- Pagination dibuat menggunakan SQL LIMIT dan OFFSET
+- Data terbaru ditampilkan terlebih dahulu
+
+## 👨‍🎓 Tujuan Pembelajaran
+- Memahami konsep pagination
+- Implementasi CRUD dengan PHP & MySQL
+- Pengelolaan file upload
+- Penggunaan query SQL dasar
