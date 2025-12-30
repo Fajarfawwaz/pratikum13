@@ -46,3 +46,18 @@ pagination/
 ```
 C:\xampp\htdocs\pagination
 ```
+
+- Akses melalui browser:
+```
+http://localhost/pagination/index.php
+```
+
+## 🧪 Cara Menggunakan
+- Klik Tambah Barang untuk menambah data
+- Upload gambar barang (jpg/png)
+- Gunakan Edit untuk mengubah data
+- Gunakan Delete untuk menghapus data
+= Gunakan Search untuk mencari barang
+- Navigasi halaman menggunakan pagination
+
+📌 Catatan
