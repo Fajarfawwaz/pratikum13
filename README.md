@@ -25,6 +25,7 @@ Dibuat sebagai bagian dari **Praktikum Pagination** yang mencakup fitur CRUD (Cr
 ---
 
 ## 📂 Struktur Folder
+```
 pagination/
 ├── index.php # Halaman utama (read data + pagination)
 ├── tambah.php # Tambah data barang
@@ -34,3 +35,5 @@ pagination/
 ├── style.css # Styling tampilan
 ├── gambar/ # Folder penyimpanan gambar
 └── README.md # Dokumentasi project
+```
+
