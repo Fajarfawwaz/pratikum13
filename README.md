@@ -37,7 +37,7 @@ pagination/
 └── README.md # Dokumentasi project
 ```
 
-##⚙️ Cara Menjalankan Project
+## ⚙️ Cara Menjalankan Project
 
 - Jalankan Apache & MySQL (XAMPP/Laragon)
 - Import database db_pagination
